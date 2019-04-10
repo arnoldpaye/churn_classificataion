@@ -20,5 +20,5 @@ python kernel.py
 ```
 
 ## Reference
-- [https://www.kaggle.com/becksddf/churn-in-telecoms-dataset] (https://www.kaggle.com/becksddf/churn-in-telecoms-dataset)
+- [https://www.kaggle.com/becksddf/churn-in-telecoms-dataset](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset)
 
